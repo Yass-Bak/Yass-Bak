@@ -74,8 +74,6 @@
 ---
 ## ⭐ Featured Projects
 
-## ⭐ Featured Projects
-
 <div align="center">
 
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
