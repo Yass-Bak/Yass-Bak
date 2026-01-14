@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Yassine%20BAKLOUTI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Jr.%20SDET&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=220&section=header&text=Yassine%20BAKLOUTI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20SDET&descSize=20&descAlignY=60" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Yass-Bak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=QA+Automation+Engineer+%7C+Designing+Reliable+Test+Frameworks;CI%2FCD+Driven+Testing+%7C+API+%26+UI+Automation;Passionate+About+Quality%2C+Scalability%2C+and+Efficiency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=850&height=45&lines=QA+Automation+Engineer+%7C+Designing+Reliable+Test+Frameworks;CI%2FCD+Driven+Testing+%7C+API+%26+UI+Automation;Passionate+About+Quality%2C+Scalability+%26+Efficiency" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -26,31 +26,66 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> **About Me**
+# 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yass-Bak&theme=tokyonight" width="420"/>
 
-📍 **Tunisia**  
-💼 **1+ Years in QA Automation & Test Engineering**  
-🔭 Currently building: **Playwright Automation Frameworks**  
-🌱 Learning: **Playwright, Robot Framework, Mabl, Spur, Momentic**  
-💬 Ask me about: **Test Automation, CI/CD, Test Strategy, API/UI Automation**  
+📍 Based in **Tunisia**  
+💼 **1+ Years in QA Automation & SDET Training**  
+🧪 Building scalable **Playwright, API, UI automation frameworks**  
+🚀 Passionate about **optimization, testing strategy, and CI/CD**  
 🎓 Certified: **ISTQB | Nvidia | Cisco**  
-⚡ Fun fact: **I debug better with a tasty cigarette 😄**  
+⚡ Fun fact: *I debug better with a tasty cigarette 😄*  
 📦 **21 repositories** | 👥 **2 followers**
 
 <br clear="right"/>
 
 ---
 
-## 🤝 **Open To**
-<p>
+# 🎯 Open To
+
+<div align="center">
 <img src="https://img.shields.io/badge/💼_Full--Time-Open-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge"/>
-</p>
+</div>
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> **Tech Stack**
+# 📊 Ultra-Modern GitHub Analytics
+
+<div align="center">
+
+### 🔥 Streak Stats  
+<img src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true&border_radius=10" width="85%"/>
+
+---
+
+### 📈 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="85%"/>
+
+---
+
+### 🌐 Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
+
+---
+
+### 🛰 Activity Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yass-Bak&theme=react-dark&hide_border=true&area=true" width="88%"/>
+
+---
+
+### 🧩 Profile Summary Cards (Full Set)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yass-Bak&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yass-Bak&theme=tokyonight" width="48%"/>
+
+</div>
+
+---
+
+# 🛠 Tech Stack
 
 ### 🧪 **Testing & QA**
 Playwright • Selenium • Cypress • Robot Framework • WebdriverIO • TestCafe • Puppeteer  
@@ -58,16 +93,23 @@ JUnit • TestNG • PyTest • Cucumber • SpecFlow • Serenity • Rest-Assu
 JMeter • Gatling • K6 • Appium • Espresso • XCUITest  
 Allure • Extent Reports • BrowserStack • Sauce Labs • LambdaTest  
 
+---
+
 ### 💻 **Development**
-Angular • React • Vue • Next.js • Node.js • Spring • Flask • Django • FastAPI  
+Angular • React • Vue • Next.js • Node.js  
+Spring • Flask • Django • FastAPI  
 Java • TypeScript • Python • Dart • C# • JavaScript • PHP  
 SQL • MongoDB • PostgreSQL • MySQL • Redis  
+
+---
 
 ### ⚙️ **DevOps & Tools**
 Jenkins • GitHub Actions • GitLab CI • CircleCI • Azure DevOps  
 Docker • Git • Maven • Gradle • Jira • Selenium Grid  
 
-## 🏆 **Achievements**
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
@@ -75,21 +117,20 @@ Docker • Git • Maven • Gradle • Jira • Selenium Grid
 |---------------|--------|
 | 📅 3+ Years on GitHub | ✔️ |
 | 💻 Java Expertise | ✔️ |
-| 🔧 Built multiple test frameworks | ✔️ |
-| 🚀 CI/CD integrated testing | ✔️ |
+| 🔧 Built multiple automation frameworks | ✔️ |
+| 🚀 CI/CD pipelines with automated testing | ✔️ |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/> **Let's Connect**
+# 🤝 Let's Connect
 
 <div align="center">
 
-💬 *Always open to interesting collaborations and automation projects!*  
-<br/>
+💬 *Open to collaborations, freelance automation work, and full-time roles.*  
 
-<a href="https://www.linkedin.com/in/yassine-baklouti-346842225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yassine-baklouti-346842225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://yassinebakloutiportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:bakloutiyassine1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -98,9 +139,6 @@ Docker • Git • Maven • Gradle • Jira • Selenium Grid
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
-
-**⭐ From [Yass-Bak](https://github.com/Yass-Bak) with ❤️**
-
+⭐ **From [Yass-Bak](https://github.com/Yass-Bak) with ❤️**
 </div>
