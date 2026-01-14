@@ -1,4 +1,4 @@
-<!-- Enhanced GitHub Profile README -->
+<!-- Enhanced GitHub Profile README (Stable Version) -->
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Yass-Bak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=QA+Automation+Engineer+%7C+Designing+Reliable+Test+Frameworks;CI%2FCD+Driven+Testing+%7C+API+%26+UI+Automation;Passionate+About+Quality%2C+Scalability%2C+and+Efficiency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=QA+Automation+Engineer+%7C+Reliable+Test+Frameworks;CI%2FCD+Driven+Automation;API+%26+UI+Testing+Specialist" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -28,9 +28,9 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> **About Me**
+## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+<img align="right" src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/languages.svg" width="320"/>
 
 📍 **Tunisia**  
 💼 **1+ Years in QA Automation & Test Engineering**  
@@ -39,13 +39,13 @@
 💬 Ask me about: **Test Automation, CI/CD, API/UI Testing**  
 🎓 Certified: **ISTQB | Nvidia | Cisco**  
 ⚡ Fun fact: **I debug better with a tasty cigarette 😄**  
-📦 **21 repositories** | 👥 **2 followers**
+📦 **21 repos** | 👥 **2 followers**
 
 <br clear="right"/>
 
 ---
 
-## 🤝 **Open To**
+## 🤝 Open For
 
 <p>
 <img src="https://img.shields.io/badge/💼_Full--Time-Open-success?style=for-the-badge"/>
@@ -54,41 +54,41 @@
 
 ---
 
-## 🔥 **GitHub Analytics**
+## 🔥 GitHub Analytics (Stable)
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yass-Bak&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/overview.svg" width="60%">
+<br/>
+<img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/contributions.svg" width="60%">
+<br/>
+<img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/streak.svg" width="60%">
 
 </div>
 
 ---
 
-## ⭐ **Featured Projects**
+## ⭐ Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/repos/Playwright-Orange-Project.svg" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/Jacq_TNR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jacq_TNR&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/repos/Jacq_TNR.svg" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/TNR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=TNR&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/repos/TNR.svg" width="45%">
 </a>
 
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 ### 🧪 Testing & QA  
 Playwright • Selenium • Cypress • Robot Framework • WebdriverIO • TestCafe • Puppeteer  
@@ -108,7 +108,7 @@ Docker • Git • Maven • Gradle • Jira • Selenium Grid
 
 ---
 
-## 🏆 **Achievements**
+## 🏆 Achievements
 
 <div align="center">
 
@@ -116,14 +116,14 @@ Docker • Git • Maven • Gradle • Jira • Selenium Grid
 |------------|--------|
 | 📅 3+ Years on GitHub | ✔️ |
 | 💻 Java Expertise | ✔️ |
-| 🚀 Built Custom Automation Frameworks | ✔️ |
-| 🔧 CI/CD Integrated Test Pipelines | ✔️ |
+| 🚀 Built Automation Frameworks | ✔️ |
+| 🔧 CI/CD Pipeline Integration | ✔️ |
 
 </div>
 
 ---
 
-## 🤝 **Let's Connect**
+## 🤝 Let's Connect
 
 <div align="center">
 
