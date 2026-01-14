@@ -133,7 +133,8 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/apitype=waving&color=0:ffffff,50:f0f0f0,100:ffffff&height=220&section=header&text=Yassine%20BAKLOUTI&fontSize=52&fontColor=1c2a3f&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20SDET&descSize=22&descAlignY=58" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:233452,100:0d1117&height=130&section=footer" width="100%"/>
 ⭐ Made with ❤️ and 🚬☕
 </div>
 
