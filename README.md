@@ -1,5 +1,3 @@
-<!-- Profile README Generated and Enhanced -->
-
 <div align="center">
 
 <!-- HEADER BANNER -->
