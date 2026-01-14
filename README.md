@@ -1,5 +1,3 @@
-<!-- Enhanced GitHub Profile README (Fully Working + Stable) -->
-
 <div align="center">
 
 <!-- HEADER BANNER -->
