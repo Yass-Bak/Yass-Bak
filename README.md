@@ -46,13 +46,22 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="./ISTQB.png" width="100" alt="ISTQB"/>
+        <img src="./certifications/ISTQB.png" width="100" alt="ISTQB"/>
       </td>
       <td align="center" width="150">
          <img src="https://cdn.simpleicons.org/nvidia/76B900" width="80" alt="Nvidia"/>
       </td>
       <td align="center" width="150">
         <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="80" alt="Cisco"/>
+      </td>
+      <td align="center" width="150">
+        <img src="./certifications/Pearson.png" width="100" alt="ISTQB"/>
+      </td>
+      <td align="center" width="150">
+        <img src="./certifications/Git.png" width="100" alt="ISTQB"/>
+      </td>
+      <td align="center" width="150">
+        <img src="./certifications/Linux.png" width="100" alt="ISTQB"/>
       </td>
     </tr>
   </table>
