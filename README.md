@@ -52,7 +52,7 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 <div align="center">
 
 
-### 🧩 Profile Summary Cards (Full Set)
+### 🧩 Profile Summary Cards
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yass-Bak&theme=tokyonight" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
@@ -60,31 +60,6 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 
 </div>
 
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="45%">
-</a>
-
-<a href="https://github.com/Yass-Bak/End-to-End-Test-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=End-to-End-Test-Automation&theme=tokyonight&hide_border=true" width="45%">
-</a>
-
-<a href="https://github.com/Yass-Bak/Bank-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Bank-Automation&theme=tokyonight&hide_border=true" width="45%">
-</a>
-
-<a href="https://github.com/Yass-Bak/Jamousi-Reservation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jamousi-Reservation&theme=tokyonight&hide_border=true" width="45%">
-</a>
-
-</div>
-
----
 
 # 🛠 Skills
 
