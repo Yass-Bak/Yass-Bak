@@ -72,7 +72,6 @@
 </div>
 
 ---
-
 ## ⭐ Featured Projects
 
 <div align="center">
