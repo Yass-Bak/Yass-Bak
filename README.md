@@ -1,7 +1,9 @@
+
+
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Yassine%20BAKLOUTI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Junior%20SDET&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Yassine%20BAKLOUTI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Jr.%20SDET&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Yass-Bak">
@@ -28,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yass-bak&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+<img align="right" src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/languages.svg" width="320"/>
 
 📍 **Tunisia**  
 💼 **1+ Years in QA Automation & Test Engineering**  
@@ -37,7 +39,7 @@
 💬 Ask me about: **Test Automation, CI/CD, API/UI Testing**  
 🎓 Certified: **ISTQB | Nvidia | Cisco**  
 ⚡ Fun fact: **I debug better with a tasty cigarette 😄**  
-📦 **21 repositories** | 👥 **2 followers**
+📦 **21 repos** | 👥 **2 followers**
 
 <br clear="right"/>
 
@@ -57,16 +59,16 @@
 <div align="center">
 
 <!-- Overview -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=yass-bak&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yass-bak&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<!-- Streak -->
+<!-- Streak (Stable Mirror) -->
 <img width="60%" src="https://streak-stats.demolab.com?user=yass-bak&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<!-- Contribution Graph -->
+<!-- Activity Graph -->
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-bak&theme=tokyo-night&hide_border=true" />
 
 </div>
@@ -77,32 +79,24 @@
 
 <div align="center">
 
+<!-- Playwright Orange Project -->
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="30%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yass-bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
+<!-- End-to-End Test Automation -->
 <a href="https://github.com/Yass-Bak/End-to-End-Test-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=End-to-End-Test-Automation&theme=tokyonight&hide_border=true" width="30%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yass-bak&repo=End-to-End-Test-Automation&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
+<!-- Olivesoft Executor -->
 <a href="https://github.com/Yass-Bak/OlivesoftTestExectuor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=OlivesoftTestExectuor&theme=tokyonight&hide_border=true" width="30%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yass-bak&repo=OlivesoftTestExectuor&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
-</div>
-
-<div align="center" style="margin-top: 1rem;">
-
-<a href="https://github.com/Yass-Bak/datacamp_docker_angular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=datacamp_docker_angular&theme=tokyonight&hide_border=true" width="30%">
-</a>
-
-<a href="https://github.com/Yass-Bak/Jamousi-Reservation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=Jamousi-Reservation&theme=tokyonight&hide_border=true" width="30%">
-</a>
-
-<a href="https://github.com/Yass-Bak/Dashboard_IIT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=Dashboard_IIT&theme=tokyonight&hide_border=true" width="30%">
+<!-- Bank Automation -->
+<a href="https://github.com/Yass-Bak/Bank-Automation">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yass-bak&repo=Bank-Automation&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
 </div>
@@ -159,7 +153,9 @@ Docker • Git • Maven • Gradle • Jira • Selenium Grid
 ---
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
-<br/>
-<strong>⭐ From <a href="https://github.com/Yass-Bak">Yass-Bak</a> with ❤️</strong>
+
+**⭐ From [Yass-Bak](https://github.com/Yass-Bak) with ❤️**
+
 </div>
