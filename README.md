@@ -77,36 +77,34 @@
 <div align="center">
 
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="30%">
 </a>
 
 <a href="https://github.com/Yass-Bak/End-to-End-Test-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=End-to-End-Test-Automation&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=End-to-End-Test-Automation&theme=tokyonight&hide_border=true" width="30%">
 </a>
 
 <a href="https://github.com/Yass-Bak/OlivesoftTestExectuor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=OlivesoftTestExectuor&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=OlivesoftTestExectuor&theme=tokyonight&hide_border=true" width="30%">
 </a>
 
 </div>
 
 <div align="center" style="margin-top: 1rem;">
 
-<a href="https://github.github.com/Yass-Bak/datacamp_docker_angular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=datacamp_docker_angular&theme=tokyonight&hide_border=true" width="30%"/>
+<a href="https://github.com/Yass-Bak/datacamp_docker_angular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=datacamp_docker_angular&theme=tokyonight&hide_border=true" width="30%">
 </a>
 
 <a href="https://github.com/Yass-Bak/Jamousi-Reservation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jamousi-Reservation&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=Jamousi-Reservation&theme=tokyonight&hide_border=true" width="30%">
 </a>
 
 <a href="https://github.com/Yass-Bak/Dashboard_IIT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Dashboard_IIT&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yass-bak&repo=Dashboard_IIT&theme=tokyonight&hide_border=true" width="30%">
 </a>
 
 </div>
-
-
 
 ---
 
