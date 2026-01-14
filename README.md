@@ -49,31 +49,8 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 
 <br clear="right"/>
 
----
-
-# 📊 GitHub Analytics (Dark Mode)
-
 <div align="center">
 
-### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true&border_radius=10" width="85%"/>
-
----
-
-### 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="85%"/>
-
----
-
-### 🌐 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
-
----
-
-### 🛰 Activity Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yass-Bak&theme=react-dark&hide_border=true&area=true" width="88%"/>
-
----
 
 ### 🧩 Profile Summary Cards (Full Set)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yass-Bak&theme=tokyonight" width="48%"/>
