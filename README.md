@@ -42,7 +42,7 @@
 
 ---
 
-# 🔥 Premium GitHub Analytics
+# 🔥 GitHub Analytics
 
 <div align="center">
 
@@ -56,27 +56,24 @@
 </div>
 
 ---
-
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 <div align="center">
 
-<!-- PREMIUM PROJECT CARDS -->
-
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&border_radius=12" width="45%"/>
+  <img src="https://img.shields.io/badge/Playwright--Orange--Project-000?style=for-the-badge&logo=github&logoColor=4ca5ff&labelColor=0d1117" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/End-to-End-Test-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=End-to-End-Test-Automation&theme=tokyonight&border_radius=12" width="45%"/>
+  <img src="https://img.shields.io/badge/End--to--End--Test--Automation-000?style=for-the-badge&logo=github&logoColor=4ca5ff&labelColor=0d1117" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/Bank-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Bank-Automation&theme=tokyonight&border_radius=12" width="45%"/>
+  <img src="https://img.shields.io/badge/Bank--Automation-000?style=for-the-badge&logo=github&logoColor=4ca5ff&labelColor=0d1117" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/OlivesoftTestExectuor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=OlivesoftTestExectuor&theme=tokyonight&border_radius=12" width="45%"/>
+  <img src="https://img.shields.io/badge/OlivesoftTestExectuor-000?style=for-the-badge&logo=github&logoColor=4ca5ff&labelColor=0d1117" width="45%">
 </a>
 
 </div>
