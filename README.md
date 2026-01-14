@@ -21,4 +21,126 @@
 <p>
 <a href="https://www.linkedin.com/in/yassine-baklouti-346842225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://yassinebakloutiportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a hr
+<a href="mailto:bakloutiyassine1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> **About Me**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+
+📍 **Tunisia**  
+💼 **1+ Years in QA Automation & Test Engineering**  
+🔭 Working on: **Playwright Automation Frameworks**  
+🌱 Learning: **Playwright, Robot Framework, Mabl, Spur, Momentic**  
+💬 Ask me about: **Test Automation, CI/CD, API/UI Testing**  
+🎓 Certified: **ISTQB | Nvidia | Cisco**  
+⚡ Fun fact: **I debug better with a tasty cigarette 😄**  
+📦 **21 repositories** | 👥 **2 followers**
+
+<br clear="right"/>
+
+---
+
+## 🤝 **Open To**
+
+<p>
+<img src="https://img.shields.io/badge/💼_Full--Time-Open-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔥 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yass-Bak&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## ⭐ **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Yass-Bak/Jacq_TNR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jacq_TNR&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Yass-Bak/TNR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=TNR&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 🧪 Testing & QA  
+Playwright • Selenium • Cypress • Robot Framework • WebdriverIO • TestCafe • Puppeteer  
+JUnit • TestNG • PyTest • Cucumber • SpecFlow • Serenity BDD  
+Rest-Assured • Postman • JMeter • Gatling • K6  
+Appium • Espresso • XCUITest  
+Allure • Extent Reports • BrowserStack • Sauce Labs • LambdaTest  
+
+### 💻 Development  
+Angular • React • Vue • Next.js • Node.js • Spring Boot  
+Java • Python • TypeScript • JavaScript • C# • Dart  
+SQL • MongoDB • PostgreSQL • MySQL • Redis  
+
+### ⚙️ DevOps & Tools  
+Jenkins • GitHub Actions • GitLab CI • CircleCI • Azure DevOps  
+Docker • Git • Maven • Gradle • Jira • Selenium Grid  
+
+---
+
+## 🏆 **Achievements**
+
+<div align="center">
+
+| Achievement | Status |
+|------------|--------|
+| 📅 3+ Years on GitHub | ✔️ |
+| 💻 Java Expertise | ✔️ |
+| 🚀 Built Custom Automation Frameworks | ✔️ |
+| 🔧 CI/CD Integrated Test Pipelines | ✔️ |
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+💬 *Always open to collaborations & automation projects!*  
+
+<a href="https://www.linkedin.com/in/yassine-baklouti-346842225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yassinebakloutiportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:bakloutiyassine1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
+
+**⭐ From [Yass-Bak](https://github.com/Yass-Bak) with ❤️**
+
+</div>
