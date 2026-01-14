@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/languages.svg" width="320"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
 
 📍 **Tunisia**  
 💼 **1+ Years in QA Automation & Test Engineering**  
@@ -54,15 +54,22 @@
 
 ---
 
-## 🔥 GitHub Analytics (Stable)
+## 🔥 GitHub Analytics (Fully Stable)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/overview.svg" width="60%">
+<!-- Overview -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true" />
+
 <br/>
-<img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/contributions.svg" width="60%">
+
+<!-- Contributions -->
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yass-Bak&theme=tokyonight&hide_border=true" />
+
 <br/>
-<img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/streak.svg" width="60%">
+
+<!-- Activity Graph (Optional but beautiful) -->
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yass-Bak&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -73,15 +80,15 @@
 <div align="center">
 
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/repos/Playwright-Orange-Project.svg" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/Jacq_TNR">
-  <img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/repos/Jacq_TNR.svg" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jacq_TNR&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
 <a href="https://github.com/Yass-Bak/TNR">
-  <img src="https://raw.githubusercontent.com/Yass-Bak/stats/master/generated/repos/TNR.svg" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=TNR&theme=tokyonight&hide_border=true" width="45%">
 </a>
 
 </div>
