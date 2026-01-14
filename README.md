@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yass-bak&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
 
 📍 **Tunisia**  
 💼 **1+ Years in QA Automation & Test Engineering**  
@@ -62,16 +62,17 @@
 <br/><br/>
 
 <!-- Streak -->
-<img width="60%" src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://streak-stats.demolab.com?user=yass-bak&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yass-Bak&theme=tokyo-night&hide_border=true" />
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-bak&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
+
 ## ⭐ Featured Projects
 
 <div align="center">
