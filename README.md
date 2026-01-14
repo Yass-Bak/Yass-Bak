@@ -134,7 +134,7 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 
 <div align="center">
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f0f0f0,100:ffffff&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=130&section=footer" width="100%"/>
 ⭐ Made with ❤️ and 🚬☕
 </div>
 
