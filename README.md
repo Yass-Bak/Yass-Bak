@@ -42,13 +42,11 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 
 ### **Certifications**
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/ISTQB_official_logo.png" height="55" style="margin: 0 20px;"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nvidia_logo.svg" height="55" style="margin: 0 20px;"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo.svg" height="55" style="margin: 0 20px;"/>
+<img src="https://img.shields.io/badge/ISTQB-Certified-70a5fd?style=for-the-badge&logo=certificate&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/NVIDIA-Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="45" />
 
 </div>
 
