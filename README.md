@@ -45,18 +45,27 @@
 
 <div align="center">
 
-<!-- GitHub Streaks (Official, Stable) -->
-<img src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+<!-- GitHub Streak (Official, Stable) -->
+<img 
+  src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true&border_radius=10" 
+  height="180" 
+/>
 
 <br/><br/>
 
-<!-- GitHub Stats (Stable Mode) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" height="180"/>
+<!-- GitHub Stats (Official Wrapper) -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+  height="180" 
+/>
 
 <br/><br/>
 
-<!-- Top Languages (Compact Mode) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  height="180" 
+/>
 
 </div>
 
