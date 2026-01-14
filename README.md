@@ -41,9 +41,7 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 - 🚀 Agile QA practices  
 
 ### **Certifications**
-- 📘 **ISTQB**  
-- 🟦 **Nvidia**  
-- 🟧 **Cisco**  
+<div align="center" style="margin-top: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/ISTQB_official_logo.png" height="55" style="margin: 0 20px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nvidia_logo.svg" height="55" style="margin: 0 20px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo.svg" height="55" style="margin: 0 20px;"/> </div>
 
 ⚡ **Fun fact:** I debug faster with a tasty cigarette 😄
 
