@@ -159,6 +159,6 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=130&section=footer" width="100%"/>
-⭐ **From [Yass-Bak](https://github.com/Yass-Bak) with ❤️**
+⭐ Made with ❤️ and 🚬☕
 </div>
 
