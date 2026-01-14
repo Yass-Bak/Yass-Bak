@@ -74,21 +74,41 @@
 ---
 ## ⭐ Featured Projects
 
+## ⭐ Featured Projects
+
 <div align="center">
 
 <a href="https://github.com/Yass-Bak/Playwright-Orange-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true" width="30%"/>
 </a>
 
-<a href="https://github.com/Yass-Bak/Jacq_TNR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jacq_TNR&theme=tokyonight&hide_border=true" width="45%">
+<a href="https://github.com/Yass-Bak/End-to-End-Test-Automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=End-to-End-Test-Automation&theme=tokyonight&hide_border=true" width="30%"/>
 </a>
 
-<a href="https://github.com/Yass-Bak/TNR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=TNR&theme=tokyonight&hide_border=true" width="45%">
+<a href="https://github.com/Yass-Bak/OlivesoftTestExectuor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=OlivesoftTestExectuor&theme=tokyonight&hide_border=true" width="30%"/>
 </a>
 
 </div>
+
+<div align="center" style="margin-top: 1rem;">
+
+<a href="https://github.github.com/Yass-Bak/datacamp_docker_angular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=datacamp_docker_angular&theme=tokyonight&hide_border=true" width="30%"/>
+</a>
+
+<a href="https://github.com/Yass-Bak/Jamousi-Reservation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jamousi-Reservation&theme=tokyonight&hide_border=true" width="30%"/>
+</a>
+
+<a href="https://github.com/Yass-Bak/Dashboard_IIT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Dashboard_IIT&theme=tokyonight&hide_border=true" width="30%"/>
+</a>
+
+</div>
+
+
 
 ---
 
