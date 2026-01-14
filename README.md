@@ -28,7 +28,7 @@
 
 # 🧑‍💻 About Me
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yass-Bak&theme=tokyonight" width="420"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yass-Bak&theme=github" width="420"/>
 
 📍 Based in **Tunisia**  
 💼 **1+ Years in QA Automation & SDET Training**  
@@ -51,9 +51,9 @@
 
 ### 🧩 Profile Summary Cards
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yass-Bak&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yass-Bak&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yass-Bak&theme=github" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yass-Bak&theme=github" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yass-Bak&theme=github" width="48%"/>
 
 </div>
 
