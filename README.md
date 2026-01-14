@@ -57,7 +57,7 @@
 <div align="center">
 
 <!-- Overview -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=yass-bak&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
