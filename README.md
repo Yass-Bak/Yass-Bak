@@ -41,17 +41,22 @@
 <br clear="right"/>
 
 ---
-
-# 🔥 GitHub Analytics
+## 🔥 GitHub Analytics
 
 <div align="center">
 
-<!-- GLASS STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&border_radius=15&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered" height="180"/>
+<!-- GitHub Streaks (Official, Stable) -->
+<img src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight-duo&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly" height="180"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yass-Bak&theme=react-dark&hide_border=true&bg_color=0d1117&color=4CA5FF&line=4CA5FF&point=FFFFFF&radius=12" width="90%"/>
+<!-- GitHub Stats (Stable Mode) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" height="180"/>
+
+<br/><br/>
+
+<!-- Top Languages (Compact Mode) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
