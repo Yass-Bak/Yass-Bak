@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:233452,100:0d1117&height=220&section=header&text=Yassine%20BAKLOUTI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20SDET&descSize=22&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f0f0f0,100:ffffff&height=220&section=header&text=Yassine%20BAKLOUTI&fontSize=52&fontColor=1c2a3f&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20SDET&descSize=22&descAlignY=58" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Yass-Bak">
