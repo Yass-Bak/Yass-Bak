@@ -49,21 +49,6 @@
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge"/>
 </p>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30"/> **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yass-Bak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass-Bak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" />
-
-<img src="https://streak-stats.demolab.com?user=Yass-Bak&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b" />
-
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> **Tech Stack**
 
@@ -81,22 +66,6 @@ SQL • MongoDB • PostgreSQL • MySQL • Redis
 ### ⚙️ **DevOps & Tools**
 Jenkins • GitHub Actions • GitLab CI • CircleCI • Azure DevOps  
 Docker • Git • Maven • Gradle • Jira • Selenium Grid  
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/> **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/Yass-Bak/Playwright-Orange-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Playwright-Orange-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd"/></a>
-
-<a href="https://github.com/Yass-Bak/Jacq_TNR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=Jacq_TNR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd"/></a>
-
-<a href="https://github.com/Yass-Bak/TNR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yass-Bak&repo=TNR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd"/></a>
-
-</div>
-
----
 
 ## 🏆 **Achievements**
 
