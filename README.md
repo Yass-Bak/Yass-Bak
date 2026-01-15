@@ -75,7 +75,7 @@ I specialize in building **scalable test automation frameworks**, enhancing **so
 <div align="center">
 
 
-### 🧩 Profile Summary Cards
+### Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yass-Bak&theme=tokyonight" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yass-Bak&theme=tokyonight" width="48%"/>
